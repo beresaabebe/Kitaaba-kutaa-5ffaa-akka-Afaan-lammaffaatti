@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "652819635892",
+    "project_id": "afaan-oromoo-kutaa-5ffaa",
+    "storage_bucket": "afaan-oromoo-kutaa-5ffaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652819635892:android:3484c0da2c0fbb959501e1",
+        "android_client_info": {
+          "package_name": "com.beckytech.afaanoromookutaa5ffaaakkaafaanlammaffaati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "652819635892-o2sl0qm2lnogm8rplc7po8b202oh06kh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEiw-OAbGmx2uqNa7BRXscH8P7LJhAFeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "652819635892-o2sl0qm2lnogm8rplc7po8b202oh06kh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
